@@ -15,6 +15,11 @@ Visit http://imags.eamir.org for more information
 The IMAGS GSR hardware is an open-source hardware project made available as part of EAMIR (http://eamir.org) and the Interactive Music Systems Lab at WPI (http://ims.vjlab.org) here. A step-by-step video guide for building your own Arduino-based galvanic skin response sensor for use with the IMAGS IMAGS Data Viewer software is available:<br>
 https://www.youtube.com/watch?v=8pKvCLYIQVg  <br><br>
 
+### Bill of Materials
+* Arduino Uno (Rev 3) - https://store-usa.arduino.cc/products/arduino-uno-rev3?variant=40391997587663
+* These accessories are recommended - https://www.adafruit.com/wishlists/587992 <br>
+Note: A simple skin electrode can be built by wrapping aluminum foil around a lead wire as noted in our "How to..." guide
+
 ## Data Viewer Software - a related repository 
 The IMAGS Data Viewer software is an open-source project available here:<br>
 https://github.com/EAMIRorg/IMAGS 
