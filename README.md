@@ -23,3 +23,9 @@ Note: A simple skin electrode can be built by wrapping aluminum foil around a le
 ## Data Viewer Software - a related repository 
 The IMAGS Data Viewer software is an open-source project available here:<br>
 https://github.com/EAMIRorg/IMAGS 
+
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
